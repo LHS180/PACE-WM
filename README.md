@@ -31,9 +31,7 @@
 
 ## Overview
 
-Similar visual observations can conceal different motion states. **PACE-WM** summarizes executed actions into a persistent memory and uses this context to predict multiple future representations in parallel. **Reference-Anchored Minimum Progress (RAMP)** compares goal progress under direct and split predictions to score candidate action sequences.
-
-Across four visual planning tasks, PACE-WM achieves **95.83%** average success, increasing to **98.00%** with RAMP.
+Similar visual observations can conceal different motion states. **PACE-WM** summarizes executed actions into a persistent memory and uses this context to predict multiple future representations in parallel. **Reference-Anchored Minimum Progress (RAMP)** compares goal progress under direct and split predictions to score candidate action sequences.Across four visual planning tasks, PACE-WM achieves **95.83%** average success, increasing to **98.00%** with RAMP.
 
 <p align="center">
   <a href="assets/overview.png"><img src="assets/overview.png" width="100%" alt="PACE-WM overview: motion ambiguity, executed-action memory, parallel prediction, and planning performance"></a>

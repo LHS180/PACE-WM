@@ -98,9 +98,7 @@ PACE-WM/
     ├── reacher.gif
     ├── pusht.gif
     ├── cube.gif
-    └── badges/
-        ├── code.svg
-        └── paper.svg
+    └── badges
 ```
 
 ## Release Status
